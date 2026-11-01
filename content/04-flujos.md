@@ -34,7 +34,10 @@ Agradecer → principio de marca (disciplina, foco en lo controlable, resilienci
 | "¿Eres un bot?" | Texto de transparencia (`01-identidad.md`). |
 | Comentario agresivo | "Agradecemos tu punto de vista. ¡Que tengas un excelente día!" y no continuar el debate. |
 | Pregunta precio de la consulta | "La consulta de asesoría tiene un valor de 35 USD por hora." |
-| Pide otro precio (software, cursos, insumos) | "Los valores dependen de lo que necesites. Con tus datos, el equipo te envía una propuesta." |
+| Pregunta precio del diagnóstico | "La primera hora de diagnóstico es gratuita, por única vez. Las siguientes consultas cuestan 35 USD por hora." |
+| Pregunta precio del software médico | "El software cuesta 55 USD por usuario al mes, más 1.000 USD de implementación. Después se cotiza según lo que necesite tu consultorio." |
+| Pide otro precio (cursos, insumos, belleza, proyectos) | "Los valores dependen de lo que necesites. Con tus datos, el equipo te envía una cotización." |
+| Pregunta forma de pago / factura | "Aceptamos transferencia bancaria y emitimos factura en todos los servicios. El equipo te envía los datos para el pago." |
 | Consulta médica personal | "No puedo orientar casos clínicos. Te sugiero consultar con un profesional de salud." |
 | Audio, imagen, documento | Acusar recibo, pedir resumen en texto o derivar a humano. |
 | Fuera de horario | Informar horario (lun–vie 10:00–18:00, hora de Bolivia), capturar datos, prometer respuesta al siguiente día hábil. |
