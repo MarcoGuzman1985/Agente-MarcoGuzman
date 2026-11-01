@@ -19,8 +19,8 @@
 | Gestión de consultorios | Administración estratégica de consultorios médicos | [PENDIENTE: alcance y modalidad] |
 | Insumos médicos | Comercialización de insumos | [PENDIENTE: catálogo / enlace] |
 | Belleza / estética | Productos de belleza | [PENDIENTE: catálogo / enlace] |
-| Software médico (SaaS) | Licenciamiento en la nube: expedientes, citas | **55 USD por usuario al mes** + implementación **1.000 USD** (pago único). Luego se cotiza según la necesidad del cliente. [PENDIENTE: módulos y demo] |
-| E-learning médico | Educación médica continua | [PENDIENTE: lista de cursos, enlace, certificación] |
+| Software médico (SaaS) | Licenciamiento en la nube: expedientes, citas | **55 USD por usuario al mes** + implementación **1.000 USD** (pago único). Luego se cotiza según la necesidad del cliente. [PENDIENTE: módulos y demo; Marco compartirá un PDF] |
+| E-learning | Capacitación continua. Cursos: 1) Finanzas para centros médicos, 2) Gestión de Clínicas Estéticas, 3) Power BI Básico, 4) Excel Avanzado, 5) Tablas Dinámicas en Excel | [PENDIENTE: precios (se cotizan), fechas, modalidad, certificado, enlace] |
 
 ## GZM Asesoría Empresarial
 - Modelos financieros y control presupuestario.
@@ -40,4 +40,7 @@
 - **Correo oficial:** guzmanmurillom@gmail.com
 - **Agenda (Google Calendar):** https://calendar.app.google/sxj3W1Su7gQ3zVao9
 - **Catálogo/curso de ejemplo:** PDF de un curso (pendiente de subir; provisional hasta tener catálogo y landing).
-- [PENDIENTE] Teléfono oficial, dirección exacta, datos bancarios (el agente no los comparte; los entrega el equipo), redes oficiales.
+- **Teléfono/WhatsApp oficial:** +591 76358689
+- **Dirección:** Calle Cupesi Nro. 30, Santa Cruz de la Sierra
+- **Facebook:** https://www.facebook.com/tuasesorfinancierobolivia/
+- [PENDIENTE] Datos bancarios (el agente no los comparte; los entrega el equipo), Instagram/otras redes, PDF del software (Marco lo compartirá).
