@@ -20,7 +20,7 @@
 | Insumos médicos | Comercialización de insumos | [PENDIENTE: catálogo / enlace] |
 | Belleza / estética | Productos de belleza | [PENDIENTE: catálogo / enlace] |
 | Software médico (SaaS) | Licenciamiento en la nube: expedientes, citas | **55 USD por usuario al mes** + implementación **1.000 USD** (pago único). Luego se cotiza según la necesidad del cliente. [PENDIENTE: módulos y demo; Marco compartirá un PDF] |
-| E-learning | Capacitación continua. Cursos: 1) Finanzas para centros médicos, 2) Gestión de Clínicas Estéticas, 3) Power BI Básico, 4) Excel Avanzado, 5) Tablas Dinámicas en Excel | [PENDIENTE: precios (se cotizan), fechas, modalidad, certificado, enlace] |
+| E-learning | Capacitación continua. Cursos: 1) Finanzas para centros médicos, 2) Gestión de Clínicas Estéticas, 3) Power BI Básico, 4) Excel Avanzado, 5) Tablas Dinámicas en Excel | Modalidad **virtual**. Certificado emitido por **INFOCAL Santa Cruz**. Precios se cotizan. [PENDIENTE: fechas, duración, enlace] |
 
 ## GZM Asesoría Empresarial
 - Modelos financieros y control presupuestario.
@@ -43,4 +43,12 @@
 - **Teléfono/WhatsApp oficial:** +591 76358689
 - **Dirección:** Calle Cupesi Nro. 30, Santa Cruz de la Sierra
 - **Facebook:** https://www.facebook.com/tuasesorfinancierobolivia/
+- **Instagram:** https://www.instagram.com/maguzm/
+- **Correo GZM (aparece en el material del curso):** marco@gzmasesoriaempresarial.com [PENDIENTE: confirmar cuál es el correo oficial principal]
+
+## Curso de ejemplo: Analista de Datos con Power BI
+- **Objetivo:** que el participante pueda importar, transformar, modelar y visualizar datos de distintas fuentes y construir reportes interactivos y dashboards para decidir mejor.
+- **Temario:** 1) Introducción a Power BI y su entorno (Desktop, Service, Mobile); 2) Carga e importación de datos (Excel, TXT, CSV, web); 3) Transformación con Power Query (ETL); 4) Modelado de datos; 5) Visualización (columnas apiladas, circulares, treemap, mapas, tablas con formato condicional).
+- **Formato:** teoría con prácticas guiadas. Power BI Desktop es una aplicación gratuita.
+- **Certificado:** INFOCAL Santa Cruz. **Modalidad:** virtual.
 - [PENDIENTE] Datos bancarios (el agente no los comparte; los entrega el equipo), Instagram/otras redes, PDF del software (Marco lo compartirá).
